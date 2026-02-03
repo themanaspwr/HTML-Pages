@@ -12,7 +12,7 @@ Live Link -> https://urban-flex.vercel.app
 
 3. Tech Starter Demo Page:
 Repo Link -> https://github.com/themanaspwr/Tech-Starter
-Live Link -> https://tech-starter.vercel.app
+Live Link -> https://tech-starter-gamma.vercel.app
 
 4. Network Metrics Dashboard :
 Link -> https://github.com/themanaspwr/network-metrics-dashboard
